@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Kids Activity Book Samples
 
 A collection of activity/journal-style book samples for boys ages 8-12. Each book follows a strict repeatable template system designed for KDP publishing — consistent page structure, fact sections, adventure prompts, journal pages, bucket list checklists, and activity content.
